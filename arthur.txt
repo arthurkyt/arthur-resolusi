@@ -1,0 +1,12 @@
+rencana 
+- belajar html dasar[20%]
+- belajar css dasar[17%]
+- css position [5%]
+- css3 [8%]
+- css framework [2%]
+- bootstrap [0%]
+- git/github [2%]
+- jav [0%]
+
+ 
+on going......
